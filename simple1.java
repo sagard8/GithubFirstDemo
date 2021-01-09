@@ -1,6 +1,6 @@
 class Simple{
 public static void main(String args[]){
 
-system.out.println("Welcome to Pune");
+system.out.println("Welcome to Home");
 }
 }
